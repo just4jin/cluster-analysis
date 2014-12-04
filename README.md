@@ -1,4 +1,4 @@
-cluster-analysis
+K-means cluster analysis
 ================
 cluster analysis on yeast data sets from UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/Yeast
 
