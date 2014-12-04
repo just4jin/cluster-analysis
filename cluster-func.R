@@ -1,3 +1,5 @@
+# Jin Li
+# cluster analysis functions
 
 ## function remove outliers from data sets
 remove_outliers <- function(x, na.rm = TRUE, ...) {
