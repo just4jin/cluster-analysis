@@ -1,6 +1,6 @@
 cluster-analysis
 ================
-conduct cluster analysis on yeast data sets from UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/Yeast
+cluster analysis on yeast data sets from UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/Yeast
 
 
 X - matrix with 8 variables and attribute values
