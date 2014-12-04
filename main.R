@@ -4,7 +4,7 @@
 ##*****************************************************************
 
 # Source functions from the func file
-source("./cluster-functions.R")
+source("./cluster-func.R")
 
 # Read yeast.data 
 yeast <- read.table("yeast.data", header=FALSE)
