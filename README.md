@@ -2,7 +2,7 @@ cluster-analysis
 ================
 
 conduct cluster analysis on yeast data sets from UCI machine learning repository: https://archive.ics.uci.edu/ml/datasets/Yeast
-
+================
 X - matrix with 8 variables and attribute values
 initialize K to 10 and randomly selected K rows without replacement out of X and stored in initial_centroids as basis for running K-means iterations
 
