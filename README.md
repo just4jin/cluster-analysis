@@ -1,6 +1,6 @@
 K-means cluster analysis
 ================
-cluster analysis on yeast data sets from <a, href="//archive.ics.uci.edu/ml/datasets/Yeast">UCI machine learning repositoryhttps</a>
+cluster analysis on yeast data sets from <a, href="https://archive.ics.uci.edu/ml/datasets/Yeast">UCI machine learning repository</a>
 
 
 set X as a matrix with 8 variables and attribute values, then initialize K to 10 and randomly selected K rows without replacement out of X and stored in initial_centroids as basis for running K-means iterations
